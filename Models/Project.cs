@@ -7,14 +7,12 @@ namespace HomeRenoBudget.Models
         A, B, C, D, F
     }
 
-    public class Appliance
+    public class Project
     {
         public Guid ID { get; set; }
         public Guid MinCost { get; set; }
         public Guid MaxCost { get; set; }
         public TotalCost? TotalCost { get; set; }
         public Student Budget { get; set; }
-
-          public ICollection<Project> Projects { get; set; }
     }
 }

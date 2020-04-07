@@ -1,0 +1,8 @@
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\HomeRenoBudget.csprojAssemblyReference.cache
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\staticwebassets\HomeRenoBudget.StaticWebAssets.Manifest.cache
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\staticwebassets\HomeRenoBudget.StaticWebAssets.xml
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\HomeRenoBudget.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\HomeRenoBudget.RazorAssemblyInfo.cache
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\HomeRenoBudget.RazorAssemblyInfo.cs
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\HomeRenoBudget.AssemblyInfoInputs.cache
+C:\Users\canda\Documents\HomeRenoBudget\obj\Debug\netcoreapp3.1\HomeRenoBudget.AssemblyInfo.cs
